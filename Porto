@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang ="en">
+    
+<!--- I set the margin and padding to zero since default is 8px --->
+<style> 
+    
+    html, body {
+        margin: 0;  
+        padding: 0;
+    } 
+    #page-container {
+    width: 760px;
+    margin: auto;
+    background: blue;
+}
+    </style>
+<body>
+ 
+<div id="page-container"> <!--- I created a container for the page that is 760px wide, and centered in the middle of the page. Main elements will be placed in this --->
+
+Hello world.
+
+</div>
+
+</body>
