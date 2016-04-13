@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang ="en">
     <title>IT 125: Project</title>
-<!--- I set the margin and padding to zero since default is 8px --->
+<!- - I set the margin and padding to zero since default is 8px - ->
 
 <style> 
     
@@ -88,7 +88,7 @@
     
 <body>
  
-<div id="page-container"> <!--- I created a container for the page that is 760px wide, and centered in the middle of the page. Main elements placed in here --->
+<div id="page-container"> <!- - I created a container for the page that is 760px wide, and centered in the middle of the page. Main elements placed in here - ->
 
     <div id="main-nav"><h1>Welcome to a Cidade Invicta Oporto!</h1></div>
 <center>
