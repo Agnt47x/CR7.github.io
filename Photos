@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang ="en">
+
+     <head>
+
+         <title>Photos</title>
+           <meta charset="utf-8">
+	         
+         <style>
+             span {display: none;}
+             
+             img:hover {transform: rotate(5deg);}
+             
+             #wrapper {box-shadow: 5px 5px 5px #828282; }
+             body {background: linear-gradient (#FFFFFF, #828282);}
+                
+             body { 
+                 background: url(map.jpg) no-repeat center fixed; background-size:cover;
+             }
+             
+         </style>
+    </head>
+         
+
+<body>
+         <center>
+    <a href="Project.html">Home</a> || <a href="photos.html">Photos</a> || <a href="survey.html">Survey</a>     </center>
+
+         <ul>
+         
+        <li>
+            <a href="porto1.jpg">
+                <img src="porto1.jpg" width="350" height="275">
+                <span>
+                <img src="porto1.jpg" width="400" height="300">
+                </span>
+                </a>
+             </li>
+             
+              
+        <li>
+            <a href="porto2.jpg">
+                <img src="porto2.jpg" width="350" height="275">
+                <span>
+                <img src="porto2.jpg" width="400" height="300">
+                </span>
+                </a>
+             </li>
+     
+        <li>
+            <a href="porto3.jpg">
+                <img src="porto3.jpg" width="350" height="375">
+                <span>
+                <img src="porto3.jpg" width="400" height="300">
+                </span>
+                </a>
+             </li>
+             
+              
+        <li>
+            <a href="porto4.jpg">
+                <img src="porto4.jpg" width="350" height="275">
+                <span>
+                <img src="porto4.jpg" width="400" height="300">
+ </span>
+ </a>
+</li>
+ </ul>
+
+</body>
+
+</html>
