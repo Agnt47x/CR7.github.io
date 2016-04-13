@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <title>Survey!</title>
+        <meta charset="utf-8">
+        <style>  
+            
+
+            h1 { text-align: center; border: 2px }
+            h4 { text-align: center; border: 2px }
+        </style>
+
+    </head>        
+<body>
+        <center>
+    <a href="Project.html">Home</a> || <a href="photos.html">Photos</a> || <a href="survey.html">Survey</a>     </center>
+    
+    <h1>All-Inclusive Porto Getaway! </h1>
+    <h4>Please enter your full information for an all paid exclusive trip to the city of Porto. Offer includes a 7 night stay at a major 5 star hotel and airfare included, for a party of two.</h4>
+
+             
+<form>
+    
+First Name: <input type="text" name =Name id="Name"><br>
+Last  Name: <input type="text" name =Name id="Name"><br>
+Email Address: <input type="email" name =Name id="email"><br>
+    <br />
+    <br />
+Airline Choice(s): <br>
+    
+<input name="US Airways" type="checkbox"value="US Airways">US Airways
+<input name="Lufthansa" type="checkbox"value="Lufthansa">Lufthansa
+<input name="TAP" type="checkbox"value="TAP">TAP Portugal
+<input name="British Airways" type="checkbox"value="British Airways">British Airways
+    <br />
+    <br />
+Residence:<br>
+<input name="residence" value="residence" type="radio">U.K. 
+<input name="residence" value="residence" type="radio">United States
+<input name="residence" value="residence" type="radio">Germany 
+<input name="residence" value="residence" type="radio">Portugal <br>
+
+    <br />
+    
+    <textarea cols="17" rows="4"> Comments:</textarea><br>
+    
+<input type="submit" value = "Submit">
+<input type="reset">
+<input value="hidden" type="hidden">
+    
+
+</form>
+
+    </body>
+
+</html>
+
